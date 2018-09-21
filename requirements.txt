@@ -1,4 +1,4 @@
 django
 djangorestframework
 gunicorn
-django_heroku
+django-heroku
